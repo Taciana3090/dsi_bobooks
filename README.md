@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-link do vídeo com apresentação do aplicativo: https://drive.google.com/drive/u/2/my-drive
+link do vídeo com apresentação do aplicativo: https://drive.google.com/file/d/1aoM762FL-Jq_f4Bow5s_ytg8o4FtTW4m/view?usp=sharing
